@@ -1,4 +1,4 @@
-## Olá! Eu sou o Hugo Guedes 🖐️
+## Olá! Eu me chamo Hugo 🖐️
 
 ![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=huguedes&show_icons=true&theme=transparent)
 
